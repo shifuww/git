@@ -1,1 +1,1 @@
-console.log('hello from second branch');
+console.log('hello from next branch');
